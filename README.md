@@ -1,1 +1,2 @@
-# dod-checklist-test
+## Login Feature
+Cette fonctionnalité gère l'authentification des utilisateurs.
